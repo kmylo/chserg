@@ -1,0 +1,70 @@
+.widget-categories span {
+    top: -6px;
+}
+
+ul.navigation-menu.nav>li.current.selected>a,
+ul.navigation-menu.nav>li.selected.hasmenu>a,
+.navigation-menu>li>a:hover,
+.navigation-menu>li>a:focus,
+.navigation-menu>li.active>a {
+    color: #fff;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.pt-0 {
+    padding-top: 0 !important;
+}
+
+.pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.section.bg-grey.no-padding .contact-row .col-lg-6,
+.coming-soon .col-lg-6 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.bg-video-thumb {
+    background: url(../../../images/video-thumb.jpg) no-repeat;
+    height: 642px;
+}
+
+#why-choose-section .no-margin .mb-30 {
+    margin-bottom: 0px !important;
+}
+
+.bg-coming-soon {
+    background: url(../../../images/bg/coming-soon.jpg);
+}
+
+#why-choose-section .matchheight .st-inner {
+    height: 100%;
+}
+
+.bg-404 {
+    background: url(../../../images/404.jpg);
+}
+
+.tp-caption .slider-content a.btn {
+    color: #fff;
+}
+
+.tp-caption .slider-content a.btn.btn-white {
+    color: #111;
+}
+
+.tp-caption .slider-content a.btn.btn-white:hover {
+    color: #fff;
+}
+
+.widget-single.widget-tags li a:hover {
+    color: #fff !important;
+}
+
+.row.team-row .col {
+    margin-top: 30px;
+}

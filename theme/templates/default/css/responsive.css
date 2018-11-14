@@ -1,0 +1,618 @@
+@media only screen and (max-width: 1300px) {
+    .has-nav {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .has-nav .owl-nav>div.owl-prev {
+        left: -20px;
+    }
+    .has-nav .owl-nav>div.owl-next {
+        right: -20px;
+    }
+    .why-choose-contentbox {
+        padding: 50px 40px;
+    }
+    /* ========================================================
+	NEW CSS
+	==========================================================*/
+    .countdown {
+        margin: 50px -25px 40px;
+    }
+    .countdown li {
+        padding: 0 25px;
+    }
+    .get-updates {
+        margin: 0;
+    }
+}
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 1199px) {
+    .project-details h4 {
+        font-size: 20px;
+    }
+    .project-details {
+        left: 20px;
+        right: 20px;
+        top: 20px;
+        bottom: 20px;
+    }
+    .project-catagory {
+        font-size: 16px;
+    }
+    .slider-content h1,
+    .slider-content h2,
+    .slider-content h3 {
+        font-size: 70px;
+        margin-bottom: 20px;
+    }
+    .slider-contentbox {
+        font-size: 16px;
+    }
+    .slider-content p {
+        margin-bottom: 30px;
+    }
+    #header {
+        padding: 0;
+    }
+    .section-title,
+    .why-choose-contentbox h2 {
+        font-size: 42px;
+    }
+    .social-block span {
+        margin-right: 5px;
+    }
+    .social-links li {
+        margin-left: 4px;
+    }
+    .has-nav {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .has-nav .owl-nav>div.owl-prev {
+        left: -5px;
+    }
+    .team-slider .owl-dots {
+        margin-bottom: 0;
+    }
+    .contact-box {
+        padding: 40px;
+    }
+    .contact-map {
+        height: 400px;
+    }
+    .contact-row .contact-box {
+        min-height: 400px;
+    }
+    .side-menu-trigger,
+    .navbar-toggle {
+        right: 15px;
+    }
+    /* ========================================================
+	NEW CSS
+	==========================================================*/
+    .coming-soon-img {
+        display: none;
+    }
+    .coming-soon-box h1 {
+        font-size: 34px;
+    }
+}
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 991px) {
+    .navigation-menu>li>ul {
+        width: 215px;
+    }
+    .footer-cols>.col:nth-child(2n) {
+        clear: right;
+    }
+    .footer-cols>.col:nth-child(2n+1) {
+        clear: left;
+    }
+    .footer-cols>.col:nth-child(2)~.col {
+        margin-top: 30px;
+    }
+    #partners-section h3 {
+        font-size: 24px;
+    }
+    .blog-posts .btn {
+        margin: 0;
+    }
+    .blog-box {
+        margin-bottom: 30px;
+    }
+    .count-number {
+        font-size: 54px;
+    }
+    .why-choose-contentbox {
+        float: none;
+        width: auto;
+        max-width: 100%;
+        padding: 40px 30px;
+    }
+    .why-choose-contentbox h2 {
+        margin-bottom: 30px;
+    }
+    .why-choose-content h3 {
+        font-size: 20px;
+    }
+    .why-choose-content {
+        font-size: 14px;
+    }
+    .video-col {
+        height: 450px;
+    }
+    .slider-content h1,
+    .slider-content h2,
+    .slider-content h3 {
+        font-size: 50px;
+    }
+    .navigation-menu>li>a {
+        font-size: 13px;
+        padding: 0 12px;
+    }
+    .quick-contact h3 {
+        font-size: 24px;
+    }
+    #sidebar {
+        padding-top: 25px;
+        clear: both;
+    }
+    .side-menu-trigger {
+        right: 15px;
+    }
+    #sidenav {
+        margin-left: 18px;
+    }
+    .pricing-box {
+        margin: 15px 0;
+    }
+    .search-box {
+        max-width: 100%;
+        left: 30px;
+        right: 30px;
+        width: auto;
+    }
+    .blog-posts .f-right {
+        float: none;
+    }
+    .contact-inforow {
+        padding: 20px 0 50px;
+    }
+    .contact-col {
+        margin-top: 35px;
+    }
+    .services-list .col:nth-of-type(4) {
+        clear: none;
+    }
+    .services-list .col:nth-of-type(3) {
+        clear: left;
+    }
+    /* ========================================================
+	NEW CSS
+	==========================================================*/
+    .related-projects {
+        padding-top: 0;
+    }
+}
+
+/*==========================================================================================================*/
+
+@media only screen and (max-width: 767px) {
+    #sidenav {
+        margin-left: -60px;
+    }
+    .footer-cols>.col~.col {
+        margin-top: 30px;
+    }
+    .social-block span {
+        float: none;
+        margin: 0 0 8px;
+        display: block;
+    }
+    .social-links li {
+        margin: 0 8px 0 0;
+    }
+    .newsletter-subscribe input[type="submit"] {
+        font-size: 12px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .footer-newsletter input[type="email"] {
+        padding-right: 100px;
+    }
+    #partners-section .col {
+        margin-top: 0;
+    }
+    .partners-slider {
+        margin-top: 20px;
+    }
+    .section-title,
+    .why-choose-contentbox h2 {
+        font-size: 30px;
+    }
+    .section {
+        padding: 35px 0;
+    }
+    .section-title+* {
+        margin-top: 25px;
+    }
+    .post-title {
+        font-size: 20px;
+    }
+    .testimonial-box h4 {
+        font-size: 18px;
+    }
+    #counters-section .col~.col {
+        margin-top: 30px;
+    }
+    .section-title+h4 {
+        font-size: 18px;
+        letter-spacing: 0.1em;
+    }
+    .video-col {
+        height: 350px;
+    }
+    .slider-content {
+        padding: 20px 0;
+    }
+    .main-slider .item,
+    .main-slider {
+        height: auto;
+    }
+    .slider-content {
+        padding: 130px 0 90px;
+    }
+    .main-slider .owl-dots {
+        position: absolute;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        bottom: 30px;
+    }
+    .slider-content h1,
+    .slider-content h2,
+    .slider-content h3 {
+        font-size: 40px;
+    }
+    .quick-contact {
+        text-align: center;
+        padding: 30px 0;
+    }
+    .quick-contact .text-right {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .search-area {
+        margin-right: 60px;
+    }
+    .scroll-down {
+        display: none;
+    }
+    .nav-box {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        padding: 0;
+    }
+    .navigation-menu {
+        border: 0;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        background: #fff;
+        border-bottom: 5px solid #3a9ac8;
+        height: -webkit-calc(100vh - 68px);
+        height: calc(100vh - 68px);
+        overflow-y: auto;
+    }
+    .navigation-menu>li {
+        float: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        margin: 0;
+    }
+    .navigation-menu>li a:hover,
+    .navigation-menu>li a:focus {
+        background: none;
+        color: #3a9ac8;
+    }
+    .navigation-menu>li:hover {
+        background: none;
+    }
+    .navigation-menu>li:last-child {
+        border: 0;
+    }
+    .navigation-menu>li>a {
+        color: #737373;
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+    .navigation-menu>li.active>a {
+        background: #3a9ac8;
+        color: #fff;
+    }
+    .navigation-menu>li.active .navtrigger {
+        color: #fff;
+    }
+    .navigation-menu>li>a,
+    #header.fixed .navigation-menu>li>a {
+        line-height: normal;
+    }
+    .navtrigger {
+        display: block;
+    }
+    .navigation-menu .navtrigger {
+        right: 15px;
+        top: 11px;
+    }
+    .navigation-menu>li>ul {
+        position: static;
+        display: none;
+        opacity: 1;
+        visibility: visible;
+        width: auto;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        -webkit-transition: none;
+        -moz-transition: none;
+        -ms-transition: none;
+        transition: none;
+        background: #f6f6f6;
+        border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+    .navigation-menu li a:before {
+        content: "\f105";
+        font-family: 'FontAwesome';
+        margin-right: 6px;
+        font-size: 16px;
+    }
+    .navigation-menu>li>ul li a {
+        font-size: 14px;
+        font-weight: 400;
+        padding: 10px 20px 10px 35px;
+    }
+    h1,
+    h2 {
+        font-size: 38px;
+    }
+    .mfp-bottom-bar {
+        font-size: 18px;
+        padding-left: 20px;
+    }
+    .error-404 {
+        min-height: 100vh;
+        height: auto;
+        padding-top: 280px;
+    }
+    .error-content h1 {
+        font-size: 140px;
+        margin-bottom: 10px;
+    }
+    .error-content {
+        position: static;
+        padding: 0;
+    }
+    .error-content h3 {
+        font-size: 26px;
+    }
+    .forgot-link {
+        float: none;
+    }
+    h1.post-title {
+        font-size: 26px;
+    }
+    .tags-list {
+        float: none;
+    }
+    .post-share {
+        float: none;
+        clear: both;
+    }
+    /* ========================================================
+	NEW CSS
+	==========================================================*/
+    .grid-item {
+        margin: 0 !important;
+    }
+    .masonry {
+        padding-bottom: 0;
+    }
+    .related-projectbox {
+        margin-bottom: 20px;
+        text-align: left;
+    }
+    .img-slider .owl-dots {
+        margin: 15px 0;
+    }
+    .page-header h3 {
+        font-size: 22px;
+    }
+    .page-header {
+        margin-bottom: 20px;
+    }
+    .countdown li span {
+        font-size: 40px;
+    }
+    .countdown {
+        margin: 50px -15px 40px;
+    }
+    .countdown li {
+        font-size: 16px;
+        padding: 0 15px
+    }
+    .email-subscribe .form-control {
+        float: none;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .email-subscribe button {
+        float: none;
+    }
+    .coming-soon-box h1 {
+        font-size: 28px;
+    }
+    .maintenance-section:before {
+        display: none;
+    }
+    .site-logo img {
+        margin-bottom: 50px;
+    }
+    .maintenance-box {
+        padding: 30px 10px;
+    }
+    .stay-connected {
+        padding-top: 50px;
+    }
+    .purchase-btn {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    body {
+        font-size: 14px;
+    }
+    .video-col {
+        height: 250px;
+    }
+    .cta-row .btn {
+        display: block;
+    }
+    .why-choose-contentbox {
+        text-align: center;
+    }
+    .why-choose-col {
+        padding: 0;
+    }
+    .why-choose-col>i {
+        margin: 0 0 15px;
+        width: 70px;
+        height: 70px;
+        font-size: 40px;
+        line-height: 66px;
+        display: block;
+        margin: 0 auto;
+    }
+    .why-choose-content {
+        display: block;
+        width: -moz-calc(100%);
+        width: -webkit-calc(100%);
+        width: calc(100%);
+        width: 100%;
+        padding: 20px 0 0;
+    }
+    .slider-content h1,
+    .slider-content h2,
+    .slider-content h3 {
+        font-size: 30px;
+    }
+    .btn+.btn {
+        margin: 10px 0 0;
+    }
+    .why-choose-content h3 {
+        font-size: 18px;
+    }
+    .contact-map {
+        height: 250px;
+    }
+    .contact-box {
+        padding: 35px 20px;
+    }
+    .contact-box h2 {
+        font-size: 30px;
+    }
+    .quick-contact h3 {
+        font-size: 20px;
+    }
+    #sidebar {
+        text-align: left;
+    }
+    h1,
+    h2 {
+        font-size: 32px;
+    }
+    h1.post-title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    .nav-tabs>li>a {
+        padding: 10px 20px;
+    }
+    .checkbox label,
+    .radio label {
+        display: block;
+        margin: 0 0 8px;
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .project-details p {
+        display: none;
+    }
+    .error-content h1 {
+        font-size: 100px;
+    }
+    .search-wrapper input[type="text"],
+    .search-wrapper input[type="search"] {
+        font-size: 26px;
+        padding-right: 50px;
+    }
+    .search-wrapper .submit-btn {
+        font-size: 24px;
+        top: -3px;
+    }
+    .author-inforow img {
+        float: none;
+    }
+    .comments-list .avatar img {
+        float: none;
+        margin-bottom: 8px;
+    }
+    .comments-list ul {
+        padding-left: 25px;
+    }
+    .blog-category {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .contact-col,
+    .contact-col address {
+        font-size: 16px;
+    }
+    .mfp-bottom-bar {
+        font-size: 15px;
+    }
+    /* ========================================================
+	NEW CSS
+	==========================================================*/
+    .coming-soon-box h1 {
+        font-size: 24px;
+    }
+    .countdown {
+        margin: 30px -10px 20px;
+    }
+    .countdown li {
+        font-size: 13px;
+        padding: 0 10px;
+    }
+    .countdown li span {
+        font-size: 28px;
+    }
+    .maintenance-box h1 {
+        font-size: 26px;
+    }
+    .maintenance-box {
+        font-size: 15px;
+    }
+}
