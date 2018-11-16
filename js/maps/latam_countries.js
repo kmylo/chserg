@@ -32,7 +32,7 @@
     $.extend(true, Mapael, {
         maps: {
             latam_countries: {
-                width: 800.29852,
+                width: 499.29852,
                 height: 500.03476,
                 getCoords: function(lat, lon) {
                     var xfactor = 2.775076875916;
